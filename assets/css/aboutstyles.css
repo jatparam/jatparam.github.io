@@ -1,0 +1,37 @@
+
+body {
+    background: #FFFFFF;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    font-family: 'Exo 2', sans-serif;
+  }
+
+  .nav-wrapper {
+    background: #000000;
+  }
+
+  .logo img{
+      padding-left: 10px;
+      width: 3em;
+      height: 2.3em;
+  }
+
+
+.summary{
+    display: flex;
+    justify-content: space-around;
+  }
+
+.banner {
+  text-align: center;
+  background-color: #2e7d32;
+}
+
+#dtitle {
+  text-align: center;
+}
+
+.network {
+  padding: 0 30px 50px 30px;
+}
